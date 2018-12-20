@@ -12,4 +12,7 @@ public class FirstClass {
         System.out.println("kdjskl");
 
     }
+    public void eew(){
+        System.out.println("fjsdlsd");
+    }
 }
