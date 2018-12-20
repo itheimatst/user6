@@ -1,2 +1,6 @@
 vsdafadsfvgagsfvs
+<<<<<<< HEAD
 423454556
+=======
+12345512
+
