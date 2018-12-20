@@ -10,7 +10,7 @@ public class FirstClass {
         System.out.println("kdjskl");
         System.out.println("kdjskl");
         System.out.println("kdjskl");
-
+        System.out.println("adaf");
     }
     public void eew(){
         System.out.println("fjsdlsd");
